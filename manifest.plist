@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rychat.Chat</string>
+				<string>com.kjchat.Chat</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
