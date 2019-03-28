@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.57:8080/app/download/TLChat.ipa</string>
+					<string>http://95888h.com/app/app/download/TLChat.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.0.57:8080/app/download/icon57.png</string>
+					<string>http://95888h.com/app/app/download/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.0.57:8080/app/download/icon512.png</string>
+					<string>http://95888h.com/app/app/download/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
